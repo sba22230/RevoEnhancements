@@ -72,11 +72,12 @@
 
 #' 
 #' 
-#' @name RevoEnhancements-package
-#' @aliases RevoEnhancements
-#' @docType package
+#' RevoEnhancements: Adds functionality to RevoScaleR
+#'
+#' Adds functionality to RevoScaleR.
+#' @name RevoEnhancements
 #' @title Adds functionality to RevoScaleR
-#' @author Derek Norton \email{derek.norton@@revolutionanalytics.com} and Andrie de Vries \email{andrie@@revolutionanalytics.com}
+#' @author Derek Norton <derek.norton@revolutionanalytics.com>; Andrie de Vries <andrie@revolutionanalytics.com>
 #' @keywords package
 #' @import RevoScaleR
 NULL

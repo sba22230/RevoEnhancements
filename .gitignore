@@ -3,3 +3,6 @@
 .RData
 *.csv
 *.xdf
+.vs/*
+RevoIOQ/*
+vignettes/*

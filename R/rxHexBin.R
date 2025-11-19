@@ -79,7 +79,7 @@ rxHexBin <- function (formula, data, shape = 1, xbins = 30, ...) {
     return(NULL)
 	}
 	## Create metadata
-	dataInfo <- rxGetInfoXdf(data, getVarInfo = TRUE)
+	dataInfo <- rxGetInfo(data, getVarInfo = TRUE)
 	plotVars <- all.vars(formula)
 	x <- plotVars[-1][1] # what if longer than 1
 	y <- plotVars[1]

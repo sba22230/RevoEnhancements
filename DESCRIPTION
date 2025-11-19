@@ -25,3 +25,5 @@ Suggests:
     testthat,
     knitr,
     e1071
+RoxygenNote: 7.3.3
+Encoding: UTF-8
